@@ -1,0 +1,9 @@
+.Features {
+  display: flex;
+  justify-content: space-between;
+  margin: 5em;
+}
+
+article {
+  width: 12em;
+}
