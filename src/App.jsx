@@ -15,7 +15,7 @@ function Declarative() {
 function Components() {
   return (
     <article>
-      <img src="./images/icon1.png" alt="declarative-icon" />
+      <img src="./images/icon2.png" alt="components-icon" />
       <h2>Components</h2>
       <p>RBuild encapsulated components that manage their state.</p>
     </article>
@@ -24,7 +24,7 @@ function Components() {
 function SingleWay() {
   return (
     <article>
-      <img src="./images/icon1.png" alt="declarative-icon" />
+      <img src="./images/icon3.png" alt="singleway-icon" />
       <h2>Single-Way</h2>
       <p>A set of immutable values are passed to the component's.</p>
     </article>
@@ -33,7 +33,7 @@ function SingleWay() {
 function ElementJSX() {
   return (
     <article>
-      <img src="./images/icon1.png" alt="declarative-icon" />
+      <img src="./images/icon4.png" alt="jsx-icon" />
       <h2>JSX</h2>
       <p>Statically-typed, designed to run on modern browsers.</p>
     </article>
